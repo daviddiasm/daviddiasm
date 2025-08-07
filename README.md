@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 
-![David](https://raw.githubusercontent.com/daviddiasm/daviddiasm/refs/heads/main/header_photo.png)
+![David](https://raw.githubusercontent.com/daviddiasm/daviddiasm/refs/heads/main/header_image.png)
+
+
 
 I'm a passionate <b>Data Analyst</b> working in the <b>Fintech</b> industry, focused on <b>Fraud</b>, <b>Payments</b>, and <b>Disputes</b>. I love turning raw data into actionable insights and building tools that help businesses detect patterns, reduce risk, and make better decisions. Whether it's writing optimized SQL queries or creating insightful dashboards, I thrive at the intersection of data and business impact.
 <hr>
@@ -24,9 +26,10 @@ I'm a passionate <b>Data Analyst</b> working in the <b>Fintech</b> industry, foc
 
 <h3 align="left">📦 Libraries</h3>
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> &nbsp;
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
 </p>
 <h3 align="left">🛠️ Tools</h3>
 <p align="left">
